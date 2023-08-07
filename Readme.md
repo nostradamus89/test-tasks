@@ -12,5 +12,19 @@
 - ML и AI библиотеки: Scikit-learn, PyTorch, Tensorflow, Keras, LangChain, LLamaIndex и другие
 - GIT
 
+# Description
+
+### This repository contains solutions to various test tasks received from companies during interviews for Python developer, ML engineer, and data scientist positions.
+
+## Main technology stack:
+
+- Python
+- SQL
+- Django and Flask
+- Various APIs
+- Databases like SQlite, MySQL, Postgres, Clickhouse, Redis, and others;
+- Asynchronous libraries like asyncio, aiohttp
+- ML and AI libraries: Scikit-learn, PyTorch, Tensorflow, Keras, LangChain, LLamaIndex, and others
+- GIT
 
 
