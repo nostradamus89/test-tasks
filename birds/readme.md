@@ -38,6 +38,6 @@
     - редактирование записи в БД птиц
     - удаление записи из БД птиц
 3. Скриншоты итогово проекта в мобильном приложении:<br>
-<img src="screens/photo_1.jpg" alt="Bird Image" width="250"/><img src="screens/photo_1_1.jpg" alt="Bird Image" width="250"/><img src="screens/photo_2.jpg" alt="Bird Image" width="250"/><br>
-<img src="screens/photo_2_2.jpg" alt="Bird Image" width="250"/><img src="screens/photo_3.jpg" alt="Bird Image" width="250"/><img src="screens/photo_4.jpg" alt="Bird Image" width="250"/>
+<img src="screens/photo_1.jpg" alt="Bird Image" width="250"/> <img src="screens/photo_1_1.jpg" alt="Bird Image" width="250"/> <img src="screens/photo_2.jpg" alt="Bird Image" width="250"/><br>
+<img src="screens/photo_2_2.jpg" alt="Bird Image" width="250"/> <img src="screens/photo_3.jpg" alt="Bird Image" width="250"/> <img src="screens/photo_4.jpg" alt="Bird Image" width="250"/>
 
